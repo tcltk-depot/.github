@@ -11,6 +11,7 @@ assignees: ''
 
 **Repository URL:**
 
-**Original author:**
+**Original author and contact:**
 
-[] Add requestor as contributor
+- [ ] Add requestor as collaborator only for this package (select only if not a tcltk-depot member)
+- [ ] Add requestor as member of tcltk-depot for contributing to multiple repositories
