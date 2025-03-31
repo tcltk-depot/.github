@@ -12,4 +12,8 @@ Note that addition of a repository here does *not* change the license or copyrig
 
 ## Contributing
 
-The tcltk-depot administrators are not responsible for maintenance and upkeep of the hosted packages. The intent is that this will be a community effort. If willing to help in this regard, either as a member with access to multiple repositories or as a collaborator with access to specific repositories, please raise a [ticket](https://github.com/tcltk-depot/.github/issues).
+The tcltk-depot administrators are not responsible for maintenance and upkeep of the hosted packages. The intent is that this will be a community effort. If willing to help in this regard,
+
+* for a one-time contribution to a specific package, create a pull request (preferred) or create a ticket with an attached patch in **that package's** repository
+* for ongoing contributions to one (or a few) repositories, raise a [ticket](https://github.com/tcltk-depot/.github/issues) in the **organization** (not package) to become a collaborator on those repositories
+* for contributing to multiple repositories, it would be easiest to join tcltk-depot as a member, again by raising a [ticket](https://github.com/tcltk-depot/.github/issues) in the **organization**.
